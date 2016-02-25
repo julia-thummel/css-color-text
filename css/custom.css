@@ -5,7 +5,13 @@
 html{
   font-family: Avenir;
   padding: 10px;
-  background-color:#d9d9d9;
+  background-color:#d9d9d9;}
   
+  a{ 
+    color: #FFF;
+    text-decoration: none;
+    
   h2 {
-    color: #000000;
+    color: #000000;}
+    
+    .read-more{...}
