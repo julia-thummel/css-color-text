@@ -5,11 +5,21 @@
 html{
   font-family: Avenir;
   padding: 10px;
+  margin: 20px 0;
   background-color:#d9d9d9;}
   
   a{ 
-    color: #FFF;
+    color: #272;
     text-decoration: none;
+    
+  .box{
+    background_color: #ccc
+  }
+    
+  .box a.read-more {
+    text-decoration: underline;
+  }
+    
     
   h2 {
     color: #000000;}
